@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "TZrkY+vc6wU=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Lenovo\\Documents\\Luyanda Mjiyakho NODE JS CLIENT\\NODE JS CLIENT\\ClientProgram\\ClientProgram\\ClientProgram.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Lenovo\\.nuget\\packages\\identitymodel\\6.2.0\\identitymodel.6.2.0.nupkg.sha512",
+    "C:\\Users\\Lenovo\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

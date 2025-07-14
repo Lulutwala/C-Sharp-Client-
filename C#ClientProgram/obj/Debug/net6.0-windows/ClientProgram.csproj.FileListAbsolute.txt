@@ -1,0 +1,55 @@
+C:\Users\Lenovo\Documents\NODE JS CLIENT\ClientProgram\ClientProgram\bin\Debug\net6.0-windows\ClientProgram.exe
+C:\Users\Lenovo\Documents\NODE JS CLIENT\ClientProgram\ClientProgram\bin\Debug\net6.0-windows\ClientProgram.deps.json
+C:\Users\Lenovo\Documents\NODE JS CLIENT\ClientProgram\ClientProgram\bin\Debug\net6.0-windows\ClientProgram.runtimeconfig.json
+C:\Users\Lenovo\Documents\NODE JS CLIENT\ClientProgram\ClientProgram\bin\Debug\net6.0-windows\ClientProgram.dll
+C:\Users\Lenovo\Documents\NODE JS CLIENT\ClientProgram\ClientProgram\bin\Debug\net6.0-windows\ClientProgram.pdb
+C:\Users\Lenovo\Documents\NODE JS CLIENT\ClientProgram\ClientProgram\bin\Debug\net6.0-windows\IdentityModel.dll
+C:\Users\Lenovo\Documents\NODE JS CLIENT\ClientProgram\ClientProgram\obj\Debug\net6.0-windows\ClientProgram.csproj.AssemblyReference.cache
+C:\Users\Lenovo\Documents\NODE JS CLIENT\ClientProgram\ClientProgram\obj\Debug\net6.0-windows\ClientProgram.Form1.resources
+C:\Users\Lenovo\Documents\NODE JS CLIENT\ClientProgram\ClientProgram\obj\Debug\net6.0-windows\ClientProgram.token.resources
+C:\Users\Lenovo\Documents\NODE JS CLIENT\ClientProgram\ClientProgram\obj\Debug\net6.0-windows\ClientProgram.csproj.GenerateResource.cache
+C:\Users\Lenovo\Documents\NODE JS CLIENT\ClientProgram\ClientProgram\obj\Debug\net6.0-windows\ClientProgram.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\Documents\NODE JS CLIENT\ClientProgram\ClientProgram\obj\Debug\net6.0-windows\ClientProgram.AssemblyInfoInputs.cache
+C:\Users\Lenovo\Documents\NODE JS CLIENT\ClientProgram\ClientProgram\obj\Debug\net6.0-windows\ClientProgram.AssemblyInfo.cs
+C:\Users\Lenovo\Documents\NODE JS CLIENT\ClientProgram\ClientProgram\obj\Debug\net6.0-windows\ClientProgram.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Documents\NODE JS CLIENT\ClientProgram\ClientProgram\obj\Debug\net6.0-windows\ClientProgram.csproj.CopyComplete
+C:\Users\Lenovo\Documents\NODE JS CLIENT\ClientProgram\ClientProgram\obj\Debug\net6.0-windows\ClientProgram.dll
+C:\Users\Lenovo\Documents\NODE JS CLIENT\ClientProgram\ClientProgram\obj\Debug\net6.0-windows\refint\ClientProgram.dll
+C:\Users\Lenovo\Documents\NODE JS CLIENT\ClientProgram\ClientProgram\obj\Debug\net6.0-windows\ClientProgram.pdb
+C:\Users\Lenovo\Documents\NODE JS CLIENT\ClientProgram\ClientProgram\obj\Debug\net6.0-windows\ClientProgram.genruntimeconfig.cache
+C:\Users\Lenovo\Documents\NODE JS CLIENT\ClientProgram\ClientProgram\obj\Debug\net6.0-windows\ref\ClientProgram.dll
+C:\Users\Lenovo\Documents\NODE JS CLIENT\ClientProgram\ClientProgram\obj\Debug\net6.0-windows\ClientProgram.Login.resources
+C:\Users\Lenovo\Documents\NODE JS CLIENT\ClientProgram\ClientProgram\obj\Debug\net6.0-windows\ClientProgram.Main.resources
+C:\Users\Lenovo\Documents\NODE JS CLIENT\ClientProgram\ClientProgram\obj\Debug\net6.0-windows\ClientProgram.getById.resources
+C:\Users\Lenovo\Documents\NODE JS CLIENT\ClientProgram\ClientProgram\bin\Debug\net6.0-windows\Newtonsoft.Json.dll
+C:\Users\Lenovo\Documents\NODE JS CLIENT\ClientProgram\ClientProgram\obj\Debug\net6.0-windows\ClientProgram.Get.resources
+C:\Users\Lenovo\Documents\NODE JS CLIENT\ClientProgram\ClientProgram\obj\Debug\net6.0-windows\ClientProgram.Post.resources
+C:\Users\Lenovo\Documents\NODE JS CLIENT\ClientProgram\ClientProgram\obj\Debug\net6.0-windows\ClientProgram.updateClients.resources
+C:\Users\Lenovo\Documents\NODE JS CLIENT\ClientProgram\ClientProgram\obj\Debug\net6.0-windows\ClientProgram.DeleteClient.resources
+C:\Users\Lenovo\Documents\Luyanda Mjiyakho NODE JS CLIENT\NODE JS CLIENT\ClientProgram\ClientProgram\bin\Debug\net6.0-windows\ClientProgram.exe
+C:\Users\Lenovo\Documents\Luyanda Mjiyakho NODE JS CLIENT\NODE JS CLIENT\ClientProgram\ClientProgram\bin\Debug\net6.0-windows\ClientProgram.deps.json
+C:\Users\Lenovo\Documents\Luyanda Mjiyakho NODE JS CLIENT\NODE JS CLIENT\ClientProgram\ClientProgram\bin\Debug\net6.0-windows\ClientProgram.runtimeconfig.json
+C:\Users\Lenovo\Documents\Luyanda Mjiyakho NODE JS CLIENT\NODE JS CLIENT\ClientProgram\ClientProgram\bin\Debug\net6.0-windows\ClientProgram.dll
+C:\Users\Lenovo\Documents\Luyanda Mjiyakho NODE JS CLIENT\NODE JS CLIENT\ClientProgram\ClientProgram\bin\Debug\net6.0-windows\ClientProgram.pdb
+C:\Users\Lenovo\Documents\Luyanda Mjiyakho NODE JS CLIENT\NODE JS CLIENT\ClientProgram\ClientProgram\bin\Debug\net6.0-windows\IdentityModel.dll
+C:\Users\Lenovo\Documents\Luyanda Mjiyakho NODE JS CLIENT\NODE JS CLIENT\ClientProgram\ClientProgram\bin\Debug\net6.0-windows\Newtonsoft.Json.dll
+C:\Users\Lenovo\Documents\Luyanda Mjiyakho NODE JS CLIENT\NODE JS CLIENT\ClientProgram\ClientProgram\obj\Debug\net6.0-windows\ClientProgram.csproj.AssemblyReference.cache
+C:\Users\Lenovo\Documents\Luyanda Mjiyakho NODE JS CLIENT\NODE JS CLIENT\ClientProgram\ClientProgram\obj\Debug\net6.0-windows\ClientProgram.DeleteClient.resources
+C:\Users\Lenovo\Documents\Luyanda Mjiyakho NODE JS CLIENT\NODE JS CLIENT\ClientProgram\ClientProgram\obj\Debug\net6.0-windows\ClientProgram.Form1.resources
+C:\Users\Lenovo\Documents\Luyanda Mjiyakho NODE JS CLIENT\NODE JS CLIENT\ClientProgram\ClientProgram\obj\Debug\net6.0-windows\ClientProgram.Get.resources
+C:\Users\Lenovo\Documents\Luyanda Mjiyakho NODE JS CLIENT\NODE JS CLIENT\ClientProgram\ClientProgram\obj\Debug\net6.0-windows\ClientProgram.getById.resources
+C:\Users\Lenovo\Documents\Luyanda Mjiyakho NODE JS CLIENT\NODE JS CLIENT\ClientProgram\ClientProgram\obj\Debug\net6.0-windows\ClientProgram.Main.resources
+C:\Users\Lenovo\Documents\Luyanda Mjiyakho NODE JS CLIENT\NODE JS CLIENT\ClientProgram\ClientProgram\obj\Debug\net6.0-windows\ClientProgram.Post.resources
+C:\Users\Lenovo\Documents\Luyanda Mjiyakho NODE JS CLIENT\NODE JS CLIENT\ClientProgram\ClientProgram\obj\Debug\net6.0-windows\ClientProgram.token.resources
+C:\Users\Lenovo\Documents\Luyanda Mjiyakho NODE JS CLIENT\NODE JS CLIENT\ClientProgram\ClientProgram\obj\Debug\net6.0-windows\ClientProgram.updateClients.resources
+C:\Users\Lenovo\Documents\Luyanda Mjiyakho NODE JS CLIENT\NODE JS CLIENT\ClientProgram\ClientProgram\obj\Debug\net6.0-windows\ClientProgram.csproj.GenerateResource.cache
+C:\Users\Lenovo\Documents\Luyanda Mjiyakho NODE JS CLIENT\NODE JS CLIENT\ClientProgram\ClientProgram\obj\Debug\net6.0-windows\ClientProgram.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\Documents\Luyanda Mjiyakho NODE JS CLIENT\NODE JS CLIENT\ClientProgram\ClientProgram\obj\Debug\net6.0-windows\ClientProgram.AssemblyInfoInputs.cache
+C:\Users\Lenovo\Documents\Luyanda Mjiyakho NODE JS CLIENT\NODE JS CLIENT\ClientProgram\ClientProgram\obj\Debug\net6.0-windows\ClientProgram.AssemblyInfo.cs
+C:\Users\Lenovo\Documents\Luyanda Mjiyakho NODE JS CLIENT\NODE JS CLIENT\ClientProgram\ClientProgram\obj\Debug\net6.0-windows\ClientProgram.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Documents\Luyanda Mjiyakho NODE JS CLIENT\NODE JS CLIENT\ClientProgram\ClientProgram\obj\Debug\net6.0-windows\ClientPr.E374F509.Up2Date
+C:\Users\Lenovo\Documents\Luyanda Mjiyakho NODE JS CLIENT\NODE JS CLIENT\ClientProgram\ClientProgram\obj\Debug\net6.0-windows\ClientProgram.dll
+C:\Users\Lenovo\Documents\Luyanda Mjiyakho NODE JS CLIENT\NODE JS CLIENT\ClientProgram\ClientProgram\obj\Debug\net6.0-windows\refint\ClientProgram.dll
+C:\Users\Lenovo\Documents\Luyanda Mjiyakho NODE JS CLIENT\NODE JS CLIENT\ClientProgram\ClientProgram\obj\Debug\net6.0-windows\ClientProgram.pdb
+C:\Users\Lenovo\Documents\Luyanda Mjiyakho NODE JS CLIENT\NODE JS CLIENT\ClientProgram\ClientProgram\obj\Debug\net6.0-windows\ClientProgram.genruntimeconfig.cache
+C:\Users\Lenovo\Documents\Luyanda Mjiyakho NODE JS CLIENT\NODE JS CLIENT\ClientProgram\ClientProgram\obj\Debug\net6.0-windows\ref\ClientProgram.dll
